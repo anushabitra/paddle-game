@@ -27,7 +27,7 @@ function onGameStart() {
         // in pixels
         position:     {x: screenWidth / 2, 
                        y: screenHeight / 2},
-        radius:       70,
+        radius:       120,
 
         // pixels/second
         velocity:     {x: +500,
